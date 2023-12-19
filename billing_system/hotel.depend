@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1667885434 source:d:\sem_3\ads\project\hotel\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<iomanip>
+	"header.h"
+
+1667760845 d:\sem_3\ads\project\hotel\def.h
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<cstring>
+	<stdlib.h>
+	<iomanip>
+	"dec.h"
+
+1667760504 d:\sem_3\ads\project\hotel\dec.h
+
+1667886462 source:d:\sem_3\ads\project\hotel\function.cpp
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<cstring>
+	<stdlib.h>
+	<iomanip>
+	"header.h"
+
+1667880913 d:\sem_3\ads\project\hotel\header.h
+
